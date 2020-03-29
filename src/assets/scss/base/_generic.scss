@@ -3,6 +3,8 @@
  */
 html {
   font-size: $typographic-root-font-size;
+  color: #FFFFFF;
+  background-color: #292929 ;
 }
 
 body {
@@ -26,6 +28,7 @@ h5,
 h6 {
   font-family: $typographic-font-family;
   font-weight: 600;
+  
 }
 
 h1 {
@@ -94,6 +97,7 @@ hr {
 a {
   color: $typographic-link-p-font-color;
   text-decoration: none;
+  color: #FFFFFF;
 
   &:hover,
   &:focus,

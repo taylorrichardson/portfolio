@@ -3,37 +3,42 @@
 module.exports = {
   site: {
     siteMetadata: {
-      url: 'http://localhost',
-      title: 'Test title',
-      subtitle: 'Test subtitle',
-      copyright: 'Test copyright',
+      url: 'https://www.taylorrichardson.ca/',
+      title: "Taylor's Portfolio",
+      subtitle: 'Leader and developer working out of Oshawa, Ontario.',
+      copyright: '© All rights reserved.',
       disqusShortname: '',
-      postsPerPage: 4,
+      postsPerPage: 5,
       menu: [
         {
-          label: 'Test label 1',
-          path: '/test/1/'
+          label: 'Projects',
+          path: '/'
         },
         {
-          label: 'Test label 2',
-          path: '/test/2/'
-        },
-        {
-          label: 'Test label 3',
-          path: '/test/3/'
+          label: 'About me',
+          path: '/pages/about'
         }
       ],
       author: {
-        name: 'Test name',
-        photo: '/test.jpg',
-        bio: 'Test bio',
+        name: 'Taylor Richardson',
+        photo: '/photo.jpg',
+        bio: 'Leader and developer working out of Oshawa, Ontario.',
         contacts: {
-          email: '#',
-          telegram: '#',
-          twitter: '#',
-          github: '#',
-          rss: '#',
-          vkontakte: '#'
+          email: 't.richardson@live.ca',
+          facebook: '',
+          telegram: '',
+          twitter: '',
+          github: 'taylorrichardson',
+          rss: '',
+          vkontakte: '',
+          linkedin: 'taylorjamesrichardson',
+          instagram: '',
+          line: '',
+          gitlab: '',
+          weibo: '',
+          codepen: '',
+          youtube: '',
+          soundcloud: '',
         }
       }
     }
