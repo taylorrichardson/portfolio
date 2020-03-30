@@ -18,14 +18,15 @@
         height: $button-height;
         padding: 0 24px;
         line-height: $button-height;
-        border: 1px solid $color-gray-border;
         text-decoration: none;
         border-radius: $button-border-radius;
-        color: $color-secondary;
+        background-color: $color-secondary;
+        color: #121212;
 
         &:hover,
         &:focus {
-          color: $color-primary;
+          background-color: $color-primary;
+          color: #121212;
         }
 
       }
