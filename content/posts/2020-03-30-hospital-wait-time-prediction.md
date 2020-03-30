@@ -1,6 +1,6 @@
 ---
 template: post
-title: Hospital Wait Time Prediction
+title: Hospital Wait Time Prediction ⏱
 slug: hospital-wait-time
 draft: false
 date: 2019-02-28T02:24:06.925Z
