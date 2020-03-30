@@ -6,7 +6,8 @@
     display: inline-block;
     margin-bottom: 0;
     border-radius: 50%;
-    background-clip: padding-box
+    background-clip: padding-box;
+    border: 1px solid rgba(255, 255, 255, .87);
   }
 
   &__title {
