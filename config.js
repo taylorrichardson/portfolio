@@ -5,13 +5,12 @@ module.exports = {
   pathPrefix: '/',
   title: "Taylor's Portfolio",
   subtitle: 'Leader and developer working out of Oshawa, Ontario.',
-  copyright: '© All rights reserved.',
+  copyright: '© Taylor Richardson',
   disqusShortname: '',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-162140194-1',
   useKatex: false,
-  menu: [
-    {
+  menu: [{
       label: 'Projects',
       path: '/'
     },
