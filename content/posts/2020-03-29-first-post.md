@@ -12,7 +12,6 @@ tags:
   - Nativescript
   - Python
   - Flask
-  - ''
 ---
 **iCare Home Health** was looking to build upon their current mobile application by updating and creating old and new back-end functionality for their mobile application, Health Espresso. [](<>)Completed by a team of student researchers including **myself**.
 
