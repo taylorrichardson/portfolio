@@ -5,12 +5,11 @@ module.exports = {
     siteMetadata: {
       url: 'https://www.taylorrichardson.ca/',
       title: "Taylor's Portfolio",
-      subtitle: 'Leader and developer working out of Oshawa, Ontario.',
+      subtitle: 'Taylor Richardson. Leader and developer working out of Oshawa, Ontario, Canada.',
       copyright: '© All rights reserved.',
       disqusShortname: '',
       postsPerPage: 5,
-      menu: [
-        {
+      menu: [{
           label: 'Projects',
           path: '/'
         },
