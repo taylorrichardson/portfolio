@@ -12,8 +12,10 @@ category: Professional
 tags:
   - Python
   - Database
-  - Backend
+  - Flask
 ---
-The business collaborated with Durham College's AI/Hub to create a strong database and server architecture in order to implement a chatbot in a future project. The project was co-led by principal investigator, Taylor Richardson. This will allow users to engage and interact with social activities in their city. The goal of this project was to create a database and server architecture, which will be robust and easily compatible with the chatbot as well as the rest of their social networking platform. Research of the development and implementation of a database and server that is AI compatible, scalable, and regionalized was done. There was a need to determine an effective schema and database architecture for the social media platform and the chatbot. Lastly, the students deployed an API to interface with database and created an API to update and retrieve information from the database.
-
 ![Meeting with client](/media/pi1.jpg "Taylor meeting with the client")
+
+The business collaborated with Durham College's AI/Hub to create a strong database and server architecture in order to assist in development of a chatbot and a social network in future projects. This was my first time leading a project as a Principal Investigator.
+
+The goal of this project was to create a database and server architecture, which will be robust and easily compatible with a chatbot as well as the rest of their social networking platform. Research of the development and implementation of a database and server that is compatible, scalable, and regionalized for the customer needs. Lastly, the students deployed an Flask API to interface with database and to update and retrieve information from the database.
