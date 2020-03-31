@@ -2,7 +2,7 @@
 template: post
 title: Customer Service Chatbot
 slug: customer-service-chatbot
-draft: true
+draft: false
 date: 2019-06-12T04:00:04.895Z
 description: >-
   Our team worked with a local call center, in order to develop and implement a
