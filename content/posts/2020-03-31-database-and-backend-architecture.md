@@ -3,7 +3,7 @@ template: post
 title: Database and Backend Architecture
 slug: database-backend-architecture
 draft: false
-date: 2020-03-31T18:17:42.158Z
+date: 2019-09-12T18:17:42.158Z
 description: >-
   In my first project as a Principal Investigator, we teamed up with a local
   business in order to create a backend database and API in order to help
